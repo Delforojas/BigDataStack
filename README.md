@@ -44,13 +44,25 @@ Cada carpeta incluye ejercicios organizados por temática junto con un `README.m
 
 Próximamente el repositorio irá incorporando nuevas tecnologías como:
 
-- Pandas
-- NumPy
-- Matplotlib
-- SQL
-- Power BI
-- Django
-- APIs REST
+### Pandas
+
+[![Pandas](https://skillicons.dev/icons?i=pandas)](https://skillicons.dev)
+
+### NumPy
+
+[![NumPy](https://skillicons.dev/icons?i=numpy)](https://skillicons.dev)
+
+### Matplotlib
+
+[![Matplotlib](https://skillicons.dev/icons?i=matplotlib)](https://skillicons.dev)
+
+### SQL (MySQL)
+
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+### Django
+
+[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 
 ---
 
