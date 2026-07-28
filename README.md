@@ -73,7 +73,7 @@ Creo que construir una base sólida facilita afrontar proyectos más complejos c
 
 ---
 
-## Autor
+## Sobre mí
 
 **Delfín Rojas**
 
