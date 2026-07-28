@@ -103,3 +103,4 @@ Los ejercicios incluyen:
 - ordenar resultados;
 
 - filtrar precios superiores a una cantidad determinada.
+  

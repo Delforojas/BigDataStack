@@ -20,7 +20,6 @@ El objetivo no es únicamente aprender la sintaxis del lenguaje, sino comprender
 
 ## Contenido
 
-```
 - [01 - Funciones](01_Funciones/)
 
 - [02 - Bucles](02_Bucles_For_While/)
@@ -34,7 +33,6 @@ El objetivo no es únicamente aprender la sintaxis del lenguaje, sino comprender
 - [06 - Módulos](06_Modulos/)
 
 - [07 - Proyectos](07_Proyectos/)
-```
 
 Cada carpeta incluye ejercicios organizados por temática junto con un `README.md` donde se explican los conceptos trabajados.
 
@@ -81,7 +79,7 @@ Creo que construir una base sólida facilita afrontar proyectos más complejos c
 
 ## Sobre mí
 
-**Delfín Rojas**
+### Delfín Rojas
 
 Siempre abierto a seguir aprendiendo, mejorar mis habilidades y afrontar nuevos retos relacionados con la programación y el análisis de datos.
 
@@ -89,12 +87,12 @@ Siempre abierto a seguir aprendiendo, mejorar mis habilidades y afrontar nuevos 
 
 💼 **LinkedIn**  
 
-https://www.linkedin.com/in/delfinrojas
+[linkedin.com/in/delfinrojas](https://www.linkedin.com/in/delfinrojas)
 
 🌐 **Portfolio**  
 
-https://delforojas.pythonanywhere.com
+[delforojas.pythonanywhere.com](https://delforojas.pythonanywhere.com)
 
 📂 **GitHub**  
 
-https://github.com/delforojas
+[github.com/Delforojas](https://github.com/Delforojas)
