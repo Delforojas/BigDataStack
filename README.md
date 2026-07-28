@@ -3,11 +3,11 @@
 
 <h1 align="center">🚀 BigDataStack</h1>
 
-<p align="center">
+<h1 align="center">
 
   <strong>A structured journey through Python, data analysis and backend development.</strong>
 
-</p>
+</h1>
 Repositorio donde documento mi aprendizaje en programación, análisis de datos y desarrollo de software mediante ejercicios prácticos y pequeños proyectos.
 
 Tras dedicar varios meses a preparar y obtener el nivel B2 de inglés, he retomado el estudio desde los fundamentos de Python para reforzar la lógica de programación y construir una base sólida antes de avanzar hacia tecnologías más complejas.
