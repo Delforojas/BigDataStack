@@ -1,9 +1,13 @@
 <!-- Banner principal -->
 ![Banner](https://github.com/Delforojas/Delforojas/blob/main/assets/Captura%20de%20pantalla%202025-10-06%20a%20las%206.44.30.png)
 
-# 🚀 BigDataStack
-##A structured journey through Python, data analysis and backend development.
+<h1 align="center">🚀 BigDataStack</h1>
 
+<p align="center">
+
+  <em>A structured journey through Python, data analysis and backend development.</em>
+
+</p>
 Repositorio donde documento mi aprendizaje en programación, análisis de datos y desarrollo de software mediante ejercicios prácticos y pequeños proyectos.
 
 Tras dedicar varios meses a preparar y obtener el nivel B2 de inglés, he retomado el estudio desde los fundamentos de Python para reforzar la lógica de programación y construir una base sólida antes de avanzar hacia tecnologías más complejas.
