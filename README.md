@@ -1,3 +1,6 @@
+<!-- Banner principal -->
+![Banner](https://github.com/Delforojas/Delforojas/blob/main/assets/Captura%20de%20pantalla%202025-10-06%20a%20las%206.44.30.png)
+
 # BigDataStack
 
 Repositorio donde documento mi aprendizaje en programación, análisis de datos y desarrollo de software mediante ejercicios prácticos y pequeños proyectos.
@@ -44,28 +47,23 @@ Cada carpeta incluye ejercicios organizados por temática junto con un `README.m
 
 Próximamente el repositorio irá incorporando nuevas tecnologías como:
 
-### Pandas
+## Próximamente
 
-[![Pandas](https://skillicons.dev/icons?i=pandas)](https://skillicons.dev)
+- Pandas 🐼
 
-### NumPy
+- NumPy 🔢
 
-[![NumPy](https://skillicons.dev/icons?i=numpy)](https://skillicons.dev)
+- Matplotlib 📈
 
-### Matplotlib
+- SQL 🗄️
 
-[![Matplotlib](https://skillicons.dev/icons?i=matplotlib)](https://skillicons.dev)
+- Power BI 📊
 
-### SQL (MySQL)
+- Django 🌐
 
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-### Django
-
-[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+- APIs REST 🔌
 
 ---
-
 ## Filosofía
 
 Este repositorio refleja mi progreso real como desarrollador.
