@@ -23,7 +23,7 @@ El objetivo no es únicamente aprender la sintaxis del lenguaje, sino comprender
 ```
 - [01 - Funciones](01_Funciones/)
 
-- [02 - Bucles](02_Bucles/)
+- [02 - Bucles](02_Bucles_For_While/)
 
 - [03 - Listas](03_Listas/)
 
