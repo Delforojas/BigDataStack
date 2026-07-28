@@ -21,13 +21,19 @@ El objetivo no es únicamente aprender la sintaxis del lenguaje, sino comprender
 ## Contenido
 
 ```
-01_Funciones
-02_Bucles
-03_Listas
-04_Diccionarios
-05_Datos
-06_Modulos
-07_Proyectos
+- [01 - Funciones](01_Funciones/)
+
+- [02 - Bucles](02_Bucles/)
+
+- [03 - Listas](03_Listas/)
+
+- [04 - Diccionarios](04_Diccionarios/)
+
+- [05 - Datos](05_Datos/)
+
+- [06 - Módulos](06_Modulos/)
+
+- [07 - Proyectos](07_Proyectos/)
 ```
 
 Cada carpeta incluye ejercicios organizados por temática junto con un `README.md` donde se explican los conceptos trabajados.
