@@ -3,7 +3,7 @@
 
 <h1 align="center">🚀 BigDataStack</h1>
 
-<p align="center">
+*A structured journey through Python, data analysis and backend development.*
 
   <em>A structured journey through Python, data analysis and backend development.</em>
 
