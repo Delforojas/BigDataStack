@@ -3,7 +3,9 @@
 
 <h1 align="center">🚀 BigDataStack</h1>
 
-## A structured journey through Python, data analysis and backend development.*
+<p align="center">
+
+  <strong>A structured journey through Python, data analysis and backend development.</strong>
 
 </p>
 Repositorio donde documento mi aprendizaje en programación, análisis de datos y desarrollo de software mediante ejercicios prácticos y pequeños proyectos.
