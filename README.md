@@ -14,7 +14,7 @@ El objetivo no es únicamente aprender la sintaxis del lenguaje, sino comprender
 
 ---
 
-## Objetivos del repositorio
+<h2 align="center"> Objetivos del repositorio </h2>
 
 - Consolidar los fundamentos de Python.
 - Mejorar la lógica de programación mediante ejercicios prácticos.
@@ -24,7 +24,7 @@ El objetivo no es únicamente aprender la sintaxis del lenguaje, sino comprender
 
 ---
 
-## Contenido
+<h2 align="center"> Contenido </h2>
 
 - [01 - Funciones](01_Funciones/)
 
@@ -44,13 +44,13 @@ Cada carpeta incluye ejercicios organizados por temática junto con un `README.m
 
 ---
 
-## Tecnologías
+<h2 align="center"> Tecnologías </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode)](https://skillicons.dev)
 
 Próximamente el repositorio irá incorporando nuevas tecnologías como:
 
-## Próximamente
+<h2 align="center"> Próximamente </h2>
 
 - Pandas 🐼
 
@@ -67,7 +67,7 @@ Próximamente el repositorio irá incorporando nuevas tecnologías como:
 - APIs REST 🔌
 
 ---
-## Filosofía
+<h2 align="center"> Filosofía </h2>
 
 Este repositorio refleja mi progreso real como desarrollador.
 
@@ -77,7 +77,7 @@ Creo que construir una base sólida facilita afrontar proyectos más complejos c
 
 ---
 
-## Próximos pasos
+<h2 align="center"> Próximos pasos </h2>
 
 - Profundizar en estructuras de datos.
 - Trabajar con ficheros y bases de datos.
@@ -88,13 +88,13 @@ Creo que construir una base sólida facilita afrontar proyectos más complejos c
 
 ---
 
-## Sobre mí
+<h2 align="center"> Sobre mí </h2>
 
-### Delfín Rojas
+<h2 align="center"> Delfín Rojas </h2>
 
 Siempre abierto a seguir aprendiendo, mejorar mis habilidades y afrontar nuevos retos relacionados con la programación y el análisis de datos.
 
-## Contacto
+<h2 align="center"> Contacto </h2>
 
 💼 **LinkedIn**  
 
