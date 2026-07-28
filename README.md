@@ -40,9 +40,7 @@ Cada carpeta incluye ejercicios organizados por temática junto con un `README.m
 
 ## Tecnologías
 
-- Python
-- Git
-- GitHub
+[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode)](https://skillicons.dev)
 
 Próximamente el repositorio irá incorporando nuevas tecnologías como:
 
